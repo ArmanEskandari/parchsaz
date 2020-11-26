@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+}
+
+.top {
+  background: #eeeeee;
+}
+
+#carousel-header {
+  padding: 5px 0;
+}
+
+.navbar {
+  background-color: #1d3557;
+}
+
+.navbar-brand {
+  padding-right: 5px;
+}
+
+.nav-item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+form {
+  justify-content: center;
+}
+
+
+input {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.carousel-item {
+  width: 100%;
+  padding-bottom: 5%;
+}
+
+img {
+max-width: 100%;
+height: auto;
+border-radius: 25px;
+}
+
+
+/* intro */
+
+.intro {
+  background-color: #f2d974;
+}
+
+.intro-header {
+  padding-top: 5%;
+}
+
+p {
+  justify-content: center;
+  padding: 7% 15%;
+}
