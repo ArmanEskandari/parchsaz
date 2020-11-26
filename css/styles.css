@@ -3,7 +3,7 @@ body {
 }
 
 .top {
-  background: #eeeeee;
+  background-color: #eeeeee;
 }
 
 #carousel-header {
@@ -58,4 +58,28 @@ border-radius: 25px;
 p {
   justify-content: center;
   padding: 7% 15%;
+}
+
+/* technical info */
+
+.tech-info {
+  padding: 7% 0;
+}
+
+/* pricing */
+
+.pricing {
+  background-color: #fcf876;
+}
+
+.pricing-header {
+  padding: 7%;
+}
+
+/* footer */
+
+footer {
+  background-color: #14274e;
+  color: #effad3;
+  margin: 0;
 }
